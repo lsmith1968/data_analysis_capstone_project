@@ -77,34 +77,35 @@ VS Code was the code editor used.
 Git and GitHub - used for version control and project hosting.
 Windows - the operating system used.
 
-### Data Dictionary
-| Column Name | Description | Data Type |
+### Jobs.csv Data Dictionary
 
-| -----------|-------------|------------|
-
-Jobs.csv
-| Job Posted Date | The date the job was posted | Object |
+| Column Name              | Description | Data Type |
+| -------------------------|-------------|-----------|
+| Job Posted Date          | The date the job was posted | Object |
 | Company Address Locality | The city or locality of the job or company | Object |
-| Company Address Region | The U.S. state or region where the job is located | Object |
-| Company Name | The name of the company posting the job | Object |
-| Company Website | The official website of the company | Object |
-| Company Description | A short description or mission statement of the company | Object |
-| Job Description Text | The full job description text as listed in original post | Object |
-| Seniority Level | The required seniority level | Object |
-| Job Title | The ful job title listed in the posting | Object | 
+| Company Address Region   | The U.S. state or region where the job is located | Object |
+| Company Name             | The name of the company posting the job | Object |
+| Company Website          | The official website of the company | Object |
+| Company Description      | A short description or mission statement of the company | Object |
+| Job Description Text     | The full job description text as listed in original post | Object |
+| Seniority Level          | The required seniority level | Object |
+| Job Title                | The ful job title listed in the posting | Object | 
 
-Salaries.csv
-| WOrk Year | The year the salary was reported | Integer |
-| Experience Level | The seniority level of the employee at the time of reporting | Object |
-| Employment Type | The type of employment contract | Object |
-| Job Title | The employee's specific job title | Object |
-| Salary | The employee's gross annual salary in the original reported currency | Integer |
-| Salary Currency| The currency in which the salary was originally paid | Object |
-| Salary in US Dollars | The employee's salary coverted to US dollars using 2025 exchange rates | Integer | 
-| Employee Residence | The country where the employee resides | Object |
-| Remote Ratio | Indicates the percentage of remote work | Integer | 
-| Company Location | The country where the company is headquartered | Object |
-| Company Size | The size of the employing organization | Object |
+### Salaries.csv Data Dictionary
+
+| Column Name              | Description | Data Type |
+| -------------------------|-------------|-----------|
+| WOrk Year                | The year the salary was reported | Integer |
+| Experience Level         | The seniority level of the employee at the time of reporting | Object |
+| Employment Type          | The type of employment contract | Object |
+| Job Title                | The employee's specific job title | Object |
+| Salary                   | The employee's annual salary in the original reported currency | Integer |
+| Salary Currency          | The currency in which the salary was originally paid | Object |
+| Salary in US Dollars     | The employee's salary coverted to USD using 2025 exchange rates | Integer | 
+| Employee Residence       | The country where the employee resides | Object |
+| Remote Ratio             | Indicates the percentage of remote work | Integer | 
+| Company Location         | The country where the company is headquartered | Object |
+| Company Size             | The size of the employing organization | Object |
 
 ## Project Summary
 
