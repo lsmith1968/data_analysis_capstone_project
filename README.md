@@ -68,15 +68,16 @@ Once the notebook is running, you will see:
 
 ## Technologies Used
 
-Python (3.13.1) was used as the primary programming language.
-SQLite3 was used for joining and querying.
-Pandas was used for data cleaning.
-Matplotlib and Seaborn were used as the base library for creating visualizations.
-Jupyter Notebook was used for narrative-driven coding and results presentation.
-VS Code was the code editor used.
-Git and GitHub - used for version control and project hosting.
-Windows - the operating system used.
-PowerPoint - used for Project Presentation
+The following technologies were used in this project:
+    -Python (3.13.1) was used as the primary programming language.
+    -SQLite3 was used for joining and querying.
+    -Pandas was used for data cleaning.
+    -Matplotlib and Seaborn were used as the base library for creating visualizations.
+    -Jupyter Notebook was used for narrative-driven coding and results presentation.
+    -VS Code was the code editor used.
+    -Git and GitHub - used for version control and project hosting.
+    -Windows - the operating system used.
+    -PowerPoint - used for Project Presentation
 
 ### Jobs.csv Data Dictionary
 
