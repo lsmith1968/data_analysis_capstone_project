@@ -76,6 +76,7 @@ Jupyter Notebook was used for narrative-driven coding and results presentation.
 VS Code was the code editor used.
 Git and GitHub - used for version control and project hosting.
 Windows - the operating system used.
+PowerPoint - used for Project Presentation
 
 ### Jobs.csv Data Dictionary
 
